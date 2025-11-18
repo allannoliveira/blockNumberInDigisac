@@ -189,7 +189,7 @@ Trecho de login e leitura do CSV (exemplo simplificado):
     page.get_by_test_id("login-button-submit").click() # leitura CSV CSV_FILE = "/mnt/data/usuarios_digisac.csv"  with  open(CSV_FILE, "r", encoding="utf-8-sig") as f:
     reader = csv.DictReader(f, delimiter=";") for row in reader:
         nome = row.get("Nome", "")
-        ...```
+        ...`
 
 ----------
 
