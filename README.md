@@ -180,7 +180,7 @@ Sugestões de melhorias:
 
 Trecho de login e leitura do CSV (exemplo simplificado):
 
-`from playwright.sync_api import sync_playwright import csv with sync_playwright() as pw:
+```from playwright.sync_api import sync_playwright import csv with sync_playwright() as pw:
     browser = pw.chromium.launch(headless=False)
     page = browser.new_page()
     page.goto("https://integralidademedica.digisac.co/login")
@@ -189,7 +189,7 @@ Trecho de login e leitura do CSV (exemplo simplificado):
     page.get_by_test_id("login-button-submit").click() # leitura CSV CSV_FILE = "/mnt/data/usuarios_digisac.csv"  with  open(CSV_FILE, "r", encoding="utf-8-sig") as f:
     reader = csv.DictReader(f, delimiter=";") for row in reader:
         nome = row.get("Nome", "")
-        ...` 
+        ...```
 
 ----------
 
