@@ -1,2 +1,14 @@
 data_hora,telefone,qualidade_antiga,qualidade_nova,timestamp_planilha,acao,observacao
 2025-11-26 15:36:39,,,,,SEM_DADOS,Nenhum telefone encontrado — execução encerrada
+2025-11-26 16:09:31,,,,,SEM_DADOS,Nenhum telefone encontrado — execução encerrada
+2025-11-26 16:24:08,5511999999999,GREEN,RED,2024-01-01,ERRO_ABRIR,Não encontrou o usuário
+2025-11-26 16:45:03,5511999999999,GREEN,RED,2024-01-01,ERRO_ABRIR,Não encontrou o usuário
+2025-11-26 16:47:15,5511999999999,GREEN,RED,2024-01-01,ERRO_ABRIR,Não encontrou o usuário
+2025-11-26 17:01:53,5511999999999,GREEN,RED,2024-01-01,ERRO_NOME,Nome não encontrado para pesquisa; pulando
+2025-11-26 17:05:57,5511999999999,GREEN,RED,2024-01-01,ERRO_NOME,Nome não encontrado para pesquisa; pulando
+2025-11-27 09:01:25,5511999999999,GREEN,RED,2024-01-01,ERRO_NOME,Número não associado a nenhum usuário do CSV
+2025-11-27 09:03:33,5511952134811,GREEN,RED,2024-01-01,ERRO_NOME,Número não associado a nenhum usuário do CSV
+2025-11-27 09:24:07,5511952134811,GREEN,RED,2024-01-01,ERRO_NOME,Número não associado a nenhum usuário do CSV
+2025-11-27 10:51:38,5511952134811,GREEN,RED,2024-01-01,ERRO_ABRIR,Erro ao abrir usuário: Acsa Vieira
+2025-11-27 11:23:35,,,,,,SEM_DADOS,Planilha sem números
+2025-11-27 11:24:33,,,,,,SEM_DADOS,Planilha sem números
