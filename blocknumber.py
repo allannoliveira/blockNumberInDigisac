@@ -13,8 +13,8 @@ from datetime import datetime
 SHEET_KEY = "1G9d4lsjtbJzvwNxghPBoQvjm5aKItoVluNoMgko7vuQ"
 SHEET_TAB = "BASE"
 
-DIGI_EMAIL = "suporte@boasnovasgestao.com"
-DIGI_PASSWORD = "Solida@2025"
+DIGI_EMAIL = "e-mail"
+DIGI_PASSWORD = "senha"
 
 CSV_USUARIOS = "usuarios_digisac.csv"
 
